@@ -1,5 +1,6 @@
 <!-- Language-neutral identification -->
 > **Application identification / Identyfikacja aplikacji:** `Way2Send - Integracja`
+
 > **User-Agent:** `Way2Send-Integracja/<version> (+https://github.com/way2send/Allegro-Integration)`
 
 **🇬🇧 English** · [🇵🇱 Polski](#polski)
